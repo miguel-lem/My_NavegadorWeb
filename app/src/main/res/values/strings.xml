@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My_NavegadorWeb</string>
+    <string name="el_buscador">Ingrese la direccion web</string>
+    <string name="boton_buscador">Ir</string>
+    <string name="visor_web">Visor</string>
+    <string name="boton_regresar">Regresar</string>
+</resources>
